@@ -1,0 +1,56 @@
+[
+  {
+    "id": 145,
+    "name": "Carlatan",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/city.PNG",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 16.634786,
+    "lng": 120.319046
+  },
+  {
+    "id": 148,
+    "name": "Bahay na bato",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.jpg",
+    "price": 200,
+    "priceCurrency": "PESO",
+    "lat": 16.847231,
+    "lng": 120.351706
+  },
+  {
+    "id": 201,
+    "name": "Macho temple",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/2.jpg",
+    "price": 150,
+    "priceCurrency": "PESO",
+    "lat": 16.621205,
+    "lng": 120.317499
+  },
+  {
+    "id": 205,
+    "name": "Tangadan",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "price": 115,
+    "priceCurrency": "PESO",
+    "lat": 16.643578,
+    "lng": 120.448791
+  },
+  {
+    "id": 210,
+    "name": "Pindangan ruins",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "price": 135,
+    "priceCurrency": "PESO",
+    "lat": 16.588140,
+    "lng": 120.314598
+  },
+  {
+    "id": 211,
+    "name": "Bohemian and Chic in Paris",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 48.827855,
+    "lng": 2.350774
+  }
+]
